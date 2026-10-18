@@ -1,4 +1,4 @@
-package com.example.vehiclenavigator
+package com.example.vehiclenavigator.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
