@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Vehicle Navigator</string>
+
+    <!--Start Activity-->
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="or_continue_with">Or Continue with</string>
+
 </resources>
